@@ -1,5 +1,5 @@
 /*
- | Utf-8 identifier characters is hex.
+ | Utf-8 identifier characters in hex.
  | Aug 14 2022
  | andydevs69420
  */
